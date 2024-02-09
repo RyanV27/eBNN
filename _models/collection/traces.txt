@@ -1,0 +1,4 @@
+{"action": "add_param", "X_samples": [1.0, 2.0], "params": ["nepochs"]}
+{"action": "add_param", "X_samples": [1.0, 2.0], "params": ["nepochs", "nfilters_embeded"]}
+{"action": "add_param", "X_samples": [1.0, 2.0], "params": ["nepochs", "nfilters_embeded", "nlayers_embeded"]}
+{"action": "add_param", "X_samples": [1.0, 2.0], "params": ["nepochs", "nfilters_embeded", "nlayers_embeded", "lr"]}
